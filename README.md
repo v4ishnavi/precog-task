@@ -4,6 +4,8 @@ This repository contains all necessary documents and code for the Precog recruit
 
 ## Repository Structure
 
+- `research_paper.pdf` - Required reading.
+- `RecruitementTask.pdf` - PDF containing tasks and their descriptions.
 - `1.ipynb` - Contains Part A and the phrase similarity section of Part B.
 - `2.ipynb` - Covers sentence similarity for Part B and Bonus Task 1.
 - `3.ipynb` - Dedicated to similarity calculations using BERT embeddings (without fine-tuning).
@@ -11,6 +13,7 @@ This repository contains all necessary documents and code for the Precog recruit
 - `word_embedding_pics/` - Contains visual plots of word embeddings.
 - `precog_report.pdf` - A comprehensive report detailing methodologies, results, and analyses, including a summary of the paper reading task.
 - `paper_summary.pptx` - A PowerPoint presentation highlighting the strengths, weaknesses, and suggested improvements of the assigned reading.
+
 
 
 ## Overview
